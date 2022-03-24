@@ -41,3 +41,18 @@ Set of activities in Java designed to provide learners with an overview of the c
 - Exercise 5.3 - [Bird class with interface](src/com/techreturners/Bird.java)
 - Exercise 5.4 - [Run console application](Outcomes/Exercise-5.4-Output.txt)
 
+## Important Notes about the Exercises:
+
+- Some classes keep mutating during the exercises, please check the class file history to see the changes in every exercise or check the commit changes for every exercise.
+- Method *sleep* in Activity 3 Optional Challenge and the Dance interface methods were created with the first letter in lowercase as per Java naming conventions.
+
+---
+
+## Technology
+This project was built using Java version 17.0.2 and the Community Edition for the IntelliJ 2021.3.2 development environment.
+
+## How to run the app
+1) cd to the project root folder in the command line
+2) javac -d bin src/com/techreturners/*.java
+3) java -cp bin com/techreturners/Main
+
