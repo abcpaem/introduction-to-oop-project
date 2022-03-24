@@ -1,0 +1,16 @@
+"C:\Program Files\Java\jdk-17.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\lib\idea_rt.jar=60699:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\bin" -Dfile.encoding=UTF-8 -classpath C:\git\introduction-to-oop-project\out\production\oop com.techreturners.Main
+Yo! I'm Pippa and I'm a Grey pigeon.
+Hi there! I can fly.
+Delicious pizza!
+I'm a sleeping pigeon
+Pippa spin!
+Pippa do the wriggly woo!
+Pippa jump in the air!
+Yo! I'm Pingu and I'm a Black & White penguin.
+Whoops, I can't fly. Waddle waddle.
+Pingu spin!
+Pingu do the wriggly woo!
+Pingu jump in the air!
+Hey I'm Jasper, the Green talking Parrot. I'm a genius, but guess who is smarter than me? The spelling bee!.
+
+Process finished with exit code 0

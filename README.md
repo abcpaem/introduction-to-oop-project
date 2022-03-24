@@ -34,3 +34,10 @@ Set of activities in Java designed to provide learners with an overview of the c
 - Exercise 4.8 - [Run console application](Outcomes/Exercise-4.8-Output.txt)
 - Exercise 4.9 - [Parrot class code](src/com/techreturners/Parrot.java) and [Console output](Outcomes/Exercise-4.9-Output.txt)
 
+### Activity 5: [Introduction to Interfaces](Activities/activity_5.md)
+### Outcome:
+- Exercise 5.1 - [UML Bird class diagram with interface](Outcomes/UMLBirdClassWithInterfaceDiagram.png)
+- Exercise 5.2 - [Dance interface code](src/com/techreturners/Dance.java)
+- Exercise 5.3 - [Bird class with interface](src/com/techreturners/Bird.java)
+- Exercise 5.4 - [Run console application](Outcomes/Exercise-5.4-Output.txt)
+
