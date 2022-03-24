@@ -11,6 +11,13 @@ Set of activities in Java designed to provide learners with an overview of the c
 - Exercise 2.1 - Introductory Reading - Object-Oriented Programming (OOP)
 - Exercise 2.2 - Introductory Reading - Class Diagrams & the Unified Modelling Language (UML)
 - Exercise 2.3 - [UML Bird class diagram](Outcomes/UMLBirdClassDiagram.png)
-- Exercise 2.4 - [Bird Class code](src/com/techreturners/Bird.java)
+- Exercise 2.4 - [Bird class code](src/com/techreturners/Bird.java)
 - Exercise 2.5 - [Run console application](Outcomes/Exercise-2.5-Output.txt)
 
+### Activity 3: [Introduction to Inheritance](Activities/activity_3.md)
+### Outcome:
+- Exercise 3.1 - Introductory Reading - Inheritance
+- Exercise 3.2 - [UML Inheritance class diagram](Outcomes/UMLInheritanceClassDiagram.png)
+- Exercise 3.3 - [Pigeon class code extending Bird class](src/com/techreturners/Pigeon.java)
+- Exercise 3.4 - [Run console application](Outcomes/Exercise-3.4-Output.txt)
+- [Optional Challenge](Outcomes/Exercise-3-Optional-Challenge-Output.txt)
