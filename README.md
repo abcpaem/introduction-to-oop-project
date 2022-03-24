@@ -21,3 +21,16 @@ Set of activities in Java designed to provide learners with an overview of the c
 - Exercise 3.3 - [Pigeon class code extending Bird class](src/com/techreturners/Pigeon.java)
 - Exercise 3.4 - [Run console application](Outcomes/Exercise-3.4-Output.txt)
 - [Optional Challenge](Outcomes/Exercise-3-Optional-Challenge-Output.txt)
+
+### Activity 4: [Introduction to Polymorphism](Activities/activity_4.md)
+### Outcome:
+- Exercise 4.1 - Introductory Reading - Polymorphism & Abstract Classes
+- Exercise 4.2 - [Bird class abstract](src/com/techreturners/Bird.java)
+- Exercise 4.3 - [UML diagram for Bird class as abstract](Outcomes/UMLBirdAbstractClassDiagram.png)
+- Exercise 4.4 - [Pigeon class with override method](src/com/techreturners/Pigeon.java)
+- Exercise 4.5 - [Run console application](Outcomes/Exercise-4.5-Output.txt)
+- Exercise 4.6 - [UML Penguin class diagram](Outcomes/UMLPenguinClassDiagram.png)
+- Exercise 4.7 - [Penguin class code](src/com/techreturners/Penguin.java)
+- Exercise 4.8 - [Run console application](Outcomes/Exercise-4.8-Output.txt)
+- Exercise 4.9 - [Parrot class code](src/com/techreturners/Parrot.java) and [Console output](Outcomes/Exercise-4.9-Output.txt)
+
