@@ -1,4 +1,4 @@
-package com.techreturners;
+package com.techreturners.oop;
 
 public class Penguin extends Bird {
 

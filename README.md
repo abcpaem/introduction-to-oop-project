@@ -10,36 +10,36 @@ Set of activities in Java designed to provide learners with an overview of the c
 ### Outcome:
 - Exercise 2.1 - Introductory Reading - Object-Oriented Programming (OOP)
 - Exercise 2.2 - Introductory Reading - Class Diagrams & the Unified Modelling Language (UML)
-- Exercise 2.3 - [UML Bird class diagram](Outcomes/UMLBirdClassDiagram.png)
-- Exercise 2.4 - [Bird class code](src/com/techreturners/Bird.java)
-- Exercise 2.5 - [Run console application](Outcomes/Exercise-2.5-Output.txt)
+- Exercise 2.3 - [UML Bird class diagram](docs/UMLBirdClassDiagram.png)
+- Exercise 2.4 - [Bird class code](src/com/techreturners/oop/Bird.java)
+- Exercise 2.5 - [Run console application](docs/Exercise-2.5-Output.txt)
 
 ### Activity 3: [Introduction to Inheritance](Activities/activity_3.md)
 ### Outcome:
 - Exercise 3.1 - Introductory Reading - Inheritance
-- Exercise 3.2 - [UML Inheritance class diagram](Outcomes/UMLInheritanceClassDiagram.png)
-- Exercise 3.3 - [Pigeon class code extending Bird class](src/com/techreturners/Pigeon.java)
-- Exercise 3.4 - [Run console application](Outcomes/Exercise-3.4-Output.txt)
-- [Optional Challenge](Outcomes/Exercise-3-Optional-Challenge-Output.txt)
+- Exercise 3.2 - [UML Inheritance class diagram](docs/UMLInheritanceClassDiagram.png)
+- Exercise 3.3 - [Pigeon class code extending Bird class](src/com/techreturners/oop/Pigeon.java)
+- Exercise 3.4 - [Run console application](docs/Exercise-3.4-Output.txt)
+- [Optional Challenge](docs/Exercise-3-Optional-Challenge-Output.txt)
 
 ### Activity 4: [Introduction to Polymorphism](Activities/activity_4.md)
 ### Outcome:
 - Exercise 4.1 - Introductory Reading - Polymorphism & Abstract Classes
-- Exercise 4.2 - [Bird class abstract](src/com/techreturners/Bird.java)
-- Exercise 4.3 - [UML diagram for Bird class as abstract](Outcomes/UMLBirdAbstractClassDiagram.png)
-- Exercise 4.4 - [Pigeon class with override method](src/com/techreturners/Pigeon.java)
-- Exercise 4.5 - [Run console application](Outcomes/Exercise-4.5-Output.txt)
-- Exercise 4.6 - [UML Penguin class diagram](Outcomes/UMLPenguinClassDiagram.png)
-- Exercise 4.7 - [Penguin class code](src/com/techreturners/Penguin.java)
-- Exercise 4.8 - [Run console application](Outcomes/Exercise-4.8-Output.txt)
-- Exercise 4.9 - [Parrot class code](src/com/techreturners/Parrot.java) and [Console output](Outcomes/Exercise-4.9-Output.txt)
+- Exercise 4.2 - [Bird class abstract](src/com/techreturners/oop/Bird.java)
+- Exercise 4.3 - [UML diagram for Bird class as abstract](docs/UMLBirdAbstractClassDiagram.png)
+- Exercise 4.4 - [Pigeon class with override method](src/com/techreturners/oop/Pigeon.java)
+- Exercise 4.5 - [Run console application](docs/Exercise-4.5-Output.txt)
+- Exercise 4.6 - [UML Penguin class diagram](docs/UMLPenguinClassDiagram.png)
+- Exercise 4.7 - [Penguin class code](src/com/techreturners/oop/Penguin.java)
+- Exercise 4.8 - [Run console application](docs/Exercise-4.8-Output.txt)
+- Exercise 4.9 - [Parrot class code](src/com/techreturners/oop/Parrot.java) and [Console output](docs/Exercise-4.9-Output.txt)
 
 ### Activity 5: [Introduction to Interfaces](Activities/activity_5.md)
 ### Outcome:
-- Exercise 5.1 - [UML Bird class diagram with interface](Outcomes/UMLBirdClassWithInterfaceDiagram.png)
-- Exercise 5.2 - [Dance interface code](src/com/techreturners/Dance.java)
-- Exercise 5.3 - [Bird class with interface](src/com/techreturners/Bird.java)
-- Exercise 5.4 - [Run console application](Outcomes/Exercise-5.4-Output.txt)
+- Exercise 5.1 - [UML Bird class diagram with interface](docs/UMLBirdClassWithInterfaceDiagram.png)
+- Exercise 5.2 - [Dance interface code](src/com/techreturners/oop/Dance.java)
+- Exercise 5.3 - [Bird class with interface](src/com/techreturners/oop/Bird.java)
+- Exercise 5.4 - [Run console application](docs/Exercise-5.4-Output.txt)
 
 ## Important Notes about the Exercises:
 
@@ -53,6 +53,6 @@ This project was built using Java version 17.0.2 and the Community Edition for t
 
 ## How to run the app
 1) cd to the project root folder in the command line
-2) javac -d bin src/com/techreturners/*.java
-3) java -cp bin com/techreturners/Main
+2) javac -d bin src/com/techreturners/oop/*.java
+3) java -cp bin com/techreturners/oop/Main
 

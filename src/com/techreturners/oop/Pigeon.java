@@ -1,4 +1,4 @@
-package com.techreturners;
+package com.techreturners.oop;
 
 //The Pigeon extends the base class Bird
 public class Pigeon extends Bird {
