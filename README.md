@@ -49,7 +49,9 @@ Set of activities in Java designed to provide learners with an overview of the c
 ---
 
 ## Technology
-This project was built using Java version 17.0.2 and the Community Edition for the IntelliJ 2021.3.2 development environment.
+This project was built using:
+- Java 17.0.2
+- IntelliJ 2021.3.2 (Community Edition).
 
 ## How to run the app
 1) cd to the project root folder in the command line
