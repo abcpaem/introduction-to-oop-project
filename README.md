@@ -55,6 +55,6 @@ This project was built using:
 
 ## How to run the app
 1) cd to the project root folder in the command line
-2) javac -d bin src/com/techreturners/oop/*.java
-3) java -cp bin com/techreturners/oop/Main
+2) `javac -d bin src/com/techreturners/oop/*.java`
+3) `java -cp bin com/techreturners/oop/Main`
 
